@@ -20,7 +20,7 @@ CPU                      Intel® Xeon® E7-8860 v4 @ 2.2GHz  4颗，单颗36核�
 存储                      HDD                              总容量320 TB
 3. 网络互联
 网络接口                                                   双口万兆以太网 + 2个千兆板载网口 + 专用IPMI管理网口
-
+![workflow](https://github.com/wzxie/RAGA/blob/main/workflow.jpg)
 
 ## 常用链接
 细胞组服务器简介：https://github.com/wzxie/Server249/wiki

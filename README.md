@@ -12,12 +12,9 @@
 
 ![hardware](https://github.com/wzxie/Server249/blob/main/Hardware.png)
 
-## 常用链接
+## 友情链接
 集群手册：https://github.com/wzxie/Server249/wiki
 
 SonmiHPC教程：https://sonmihpc.com/user-guide/home.html
 
-Slurm队列调度系统手册：https://github.com/wzxie/Server249/blob/main/slurm%E4%BD%9C%E4%B8%9A%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf
-
-### PDF手册
 [slurm作业调度系统使用指南.pdf](https://github.com/wzxie/Server249/blob/main/slurm%E4%BD%9C%E4%B8%9A%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf)

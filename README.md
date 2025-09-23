@@ -13,9 +13,9 @@
 ![hardware](https://github.com/wzxie/Server249/blob/main/Hardware.png)
 
 ## 常用链接
-细胞组服务器简介：https://github.com/wzxie/Server249/wiki
+SonmiHPC集群简介：https://github.com/wzxie/Server249/wiki
 
-XieLab服务器简介：https://github.com/wzxie/Server249/wiki
+Dell服务器简介：https://github.com/wzxie/Server249/wiki
 
 SonmiHPC教程：https://sonmihpc.com/user-guide/home.html
 

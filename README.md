@@ -13,9 +13,9 @@
 ![hardware](https://github.com/wzxie/Server249/blob/main/Hardware.png)
 
 ## 常用链接
-SonmiHPC集群简介：https://github.com/wzxie/Server249/wiki
+SonmiHPC集群手册：https://github.com/wzxie/Server249/wiki
 
-Dell服务器简介：https://github.com/wzxie/Server249/wiki
+Dell服务器手册：https://github.com/wzxie/Server249/wiki
 
 SonmiHPC教程：https://sonmihpc.com/user-guide/home.html
 

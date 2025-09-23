@@ -1,5 +1,7 @@
 # Server249
-本仓库旨在帮助用户快速熟悉河北师范⼤学分⼦细胞⽣物学实验室（教育部省部共建重点实验室）计算资源。
+* 本仓库旨在帮助用户快速熟悉河北师范⼤学分⼦细胞⽣物学实验室（教育部省部共建重点实验室）计算资源。
+
+* 详细信息请访问https://github.com/wzxie/Server249/wiki
 
 ## 集群配置
 河北师范⼤学分⼦细胞⽣物学实验室（教育部省部共建重点实验室）计算资源部署包含一套SonmiHPC高性能集群系统与一台戴尔高性能计算服务器。
@@ -17,4 +19,4 @@
 
 SonmiHPC教程：https://sonmihpc.com/user-guide/home.html
 
-[slurm作业调度系统使用指南.pdf](https://github.com/wzxie/Server249/blob/main/slurm%E4%BD%9C%E4%B8%9A%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf)
+Slurm手册：[slurm作业调度系统使用指南.pdf](https://github.com/wzxie/Server249/blob/main/slurm%E4%BD%9C%E4%B8%9A%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf)

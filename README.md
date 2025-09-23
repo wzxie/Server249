@@ -6,7 +6,7 @@
 
 1）SonmiHPC集群配置为CPU：Intel(R) Xeon(R) Platinum 8470 * 2，共计208线程；内存：64GB DDR5 * 16，共计1024G；系统盘：2TB（两块960GB SSD，RAID1）；共享存储：352TB（22 * 16TB HDD，RAID6）。
 
-2）戴尔服务器配置为CPU：Intel Xeon E7-8860 v4 * 4，共计144线程；内存：16GB DDR4 * 32，共计512G；共享存储：384TB（24 * 16TB HDD，RAID6）。
+2）Dell服务器配置为CPU：Intel Xeon E7-8860 v4 * 4，共计144线程；内存：16GB DDR4 * 32，共计512G；共享存储：384TB（24 * 16TB HDD，RAID6）。
 
 3）两套系统之间通过双口万兆以太网、双千兆网口及IPMI管理网口进行互联，实现数据的高速共享。
 

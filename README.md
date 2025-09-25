@@ -25,4 +25,6 @@ Slurm手册：[slurm作业调度系统使用指南.pdf](https://github.com/wzxie
 
 Linux菜鸟教程：https://www.runoob.com/linux/linux-tutorial.html
 
+Linux操作系统概述：https://github.com/wzxie/Server249/blob/main/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0.pdf
+
 R：https://github.com/wzxie/Server249/blob/main/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf

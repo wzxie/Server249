@@ -30,3 +30,7 @@ Linux操作系统概述：[Linux操作系统概述.pdf](https://github.com/wzxie
 Linux命令大全：[Linux命令大全.pdf](https://github.com/wzxie/Server249/blob/main/Linux%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.pdf)
 
 R语言实战：[R语言实战.pdf](https://github.com/wzxie/Server249/blob/main/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)
+
+Python：[python资源.pdf](https://github.com/wzxie/Server249/blob/main/python%E8%B5%84%E6%BA%90.pdf)
+
+

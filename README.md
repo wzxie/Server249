@@ -20,3 +20,7 @@
 SonmiHPC教程：https://sonmihpc.com/user-guide/home.html
 
 Slurm手册：[slurm作业调度系统使用指南.pdf](https://github.com/wzxie/Server249/blob/main/slurm%E4%BD%9C%E4%B8%9A%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf)
+
+鸟哥私房菜（力荐）：https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html
+
+Linux菜鸟教程：https://www.runoob.com/linux/linux-tutorial.html

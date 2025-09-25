@@ -23,6 +23,8 @@ Slurm手册：[slurm作业调度系统使用指南.pdf](https://github.com/wzxie
 
 鸟哥私房菜（力荐）：https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html
 
+鸟哥私房菜（力荐）：[鸟哥私房菜.pdf](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html)
+
 Linux菜鸟教程：https://www.runoob.com/linux/linux-tutorial.html
 
 Linux操作系统概述：https://github.com/wzxie/Server249/blob/main/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0.pdf

@@ -21,14 +21,12 @@ SonmiHPC教程：https://sonmihpc.com/user-guide/home.html
 
 Slurm手册：[slurm作业调度系统使用指南.pdf](https://github.com/wzxie/Server249/blob/main/slurm%E4%BD%9C%E4%B8%9A%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf)
 
-鸟哥私房菜（力荐）：https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html
+鸟哥私房菜（力荐）：[鸟哥私房菜.html](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html)
 
-鸟哥私房菜（力荐）：[鸟哥私房菜.pdf](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html)
+Linux菜鸟教程：[Linux菜鸟教程.html](https://www.runoob.com/linux/linux-tutorial.html)
 
-Linux菜鸟教程：https://www.runoob.com/linux/linux-tutorial.html
+Linux操作系统概述：[Linux操作系统概述.pdf](https://github.com/wzxie/Server249/blob/main/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0.pdf)
 
-Linux操作系统概述：https://github.com/wzxie/Server249/blob/main/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0.pdf
+Linux命令大全：[Linux命令大全.pdf](https://github.com/wzxie/Server249/blob/main/Linux%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.pdf)
 
-Linux命令大全：https://github.com/wzxie/Server249/blob/main/Linux%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.pdf
-
-R：https://github.com/wzxie/Server249/blob/main/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf
+R语言实战：[R语言实战.pdf](https://github.com/wzxie/Server249/blob/main/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)

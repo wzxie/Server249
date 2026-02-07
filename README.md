@@ -15,7 +15,7 @@
 ![hardware](https://github.com/wzxie/Server249/blob/main/Hardware.png)
 
 ## 友情链接
-集群手册：https://github.com/wzxie/Server249/wiki
+生科院集群（联想）：https://github.com/connshaojunzhang/servers2/wiki
 
 SonmiHPC教程：https://sonmihpc.com/user-guide/home.html
 
